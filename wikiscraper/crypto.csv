@@ -1,0 +1,118 @@
+name,link,letter_name
+Cryptographic attack,/wiki/Cryptographic_attack, 
+3-subset meet-in-the-middle attack,/wiki/3-subset_meet-in-the-middle_attack,0–9
+Acoustic cryptanalysis,/wiki/Acoustic_cryptanalysis,A
+Adaptive chosen-ciphertext attack,/wiki/Adaptive_chosen-ciphertext_attack,A
+Adversary (cryptography),/wiki/Adversary_(cryptography),A
+Attack model,/wiki/Attack_model,A
+Banburismus,/wiki/Banburismus,B
+Biclique attack,/wiki/Biclique_attack,B
+Birthday attack,/wiki/Birthday_attack,B
+Bit-flipping attack,/wiki/Bit-flipping_attack,B
+Black bag operation,/wiki/Black_bag_operation,B
+Black-bag cryptanalysis,/wiki/Black-bag_cryptanalysis,B
+Boomerang attack,/wiki/Boomerang_attack,B
+Brute-force attack,/wiki/Brute-force_attack,B
+Chosen-ciphertext attack,/wiki/Chosen-ciphertext_attack,C
+Ciphertext-only attack,/wiki/Ciphertext-only_attack,C
+Clock drift,/wiki/Clock_drift,C
+Collision attack,/wiki/Collision_attack,C
+Contact analysis (cryptanalysis),/wiki/Contact_analysis_(cryptanalysis),C
+Coppersmith's attack,/wiki/Coppersmith%27s_attack,C
+Correlation attack,/wiki/Correlation_attack,C
+Cracking of wireless networks,/wiki/Cracking_of_wireless_networks,C
+CRIME,/wiki/CRIME,C
+Cryptanalysis,/wiki/Cryptanalysis,C
+Cryptanalytic computer,/wiki/Cryptanalytic_computer,C
+Time/memory/data tradeoff attack,/wiki/Time/memory/data_tradeoff_attack,C
+CryptoLocker,/wiki/CryptoLocker,C
+Cube attack,/wiki/Cube_attack,C
+Custom hardware attack,/wiki/Custom_hardware_attack,C
+Davies attack,/wiki/Davies_attack,D
+Dictionary attack,/wiki/Dictionary_attack,D
+Differential cryptanalysis,/wiki/Differential_cryptanalysis,D
+Differential equations of addition,/wiki/Differential_equations_of_addition,D
+Differential-linear attack,/wiki/Differential-linear_attack,D
+Distinguishing attack,/wiki/Distinguishing_attack,D
+Distributed.net,/wiki/Distributed.net,D
+Downgrade attack,/wiki/Downgrade_attack,D
+DROWN attack,/wiki/DROWN_attack,D
+Duqu,/wiki/Duqu,D
+Flame (malware),/wiki/Flame_(malware),F
+"Fluhrer, Mantin and Shamir attack","/wiki/Fluhrer,_Mantin_and_Shamir_attack",F
+FREAK,/wiki/FREAK,F
+Frequency analysis,/wiki/Frequency_analysis,F
+Gardening (cryptanalysis),/wiki/Gardening_(cryptanalysis),G
+Hardware backdoor,/wiki/Hardware_backdoor,H
+Hardware keylogger,/wiki/Hardware_keylogger,H
+John Herivel,/wiki/John_Herivel,H
+Higher-order differential cryptanalysis,/wiki/Higher-order_differential_cryptanalysis,H
+Impossible differential cryptanalysis,/wiki/Impossible_differential_cryptanalysis,I
+Index of coincidence,/wiki/Index_of_coincidence,I
+Integral cryptanalysis,/wiki/Integral_cryptanalysis,I
+Interlock protocol,/wiki/Interlock_protocol,I
+Interpolation attack,/wiki/Interpolation_attack,I
+Kappa test,/wiki/Kappa_test,K
+Kasiski examination,/wiki/Kasiski_examination,K
+Key-recovery attack,/wiki/Key-recovery_attack,K
+Keystroke logging,/wiki/Keystroke_logging,K
+Kiss (cryptanalysis),/wiki/Kiss_(cryptanalysis),K
+Known-key distinguishing attack,/wiki/Known-key_distinguishing_attack,K
+Known-plaintext attack,/wiki/Known-plaintext_attack,K
+Length extension attack,/wiki/Length_extension_attack,L
+Linear cryptanalysis,/wiki/Linear_cryptanalysis,L
+Locky,/wiki/Locky,L
+LogicLocker,/wiki/LogicLocker,L
+Lucky Thirteen attack,/wiki/Lucky_Thirteen_attack,L
+Man-in-the-middle attack,/wiki/Man-in-the-middle_attack,M
+MD5CRK,/wiki/MD5CRK,M
+Meet-in-the-middle attack,/wiki/Meet-in-the-middle_attack,M
+Message forgery,/wiki/Message_forgery,M
+Metasploit Project,/wiki/Metasploit_Project,M
+Microsoft Office password protection,/wiki/Microsoft_Office_password_protection,M
+Military Cryptanalytics,/wiki/Military_Cryptanalytics,M
+Mod n cryptanalysis,/wiki/Mod_n_cryptanalysis,M
+Padding oracle attack,/wiki/Padding_oracle_attack,P
+Partial-matching meet-in-the-middle attack,/wiki/Partial-matching_meet-in-the-middle_attack,P
+Partitioning cryptanalysis,/wiki/Partitioning_cryptanalysis,P
+Passive attack,/wiki/Passive_attack,P
+Password cracking,/wiki/Password_cracking,P
+Piling-up lemma,/wiki/Piling-up_lemma,P
+Pre-play attack,/wiki/Pre-play_attack,P
+Preimage attack,/wiki/Preimage_attack,P
+Pwdump,/wiki/Pwdump,P
+Rainbow table,/wiki/Rainbow_table,R
+Random number generator attack,/wiki/Random_number_generator_attack,R
+Rebound attack,/wiki/Rebound_attack,R
+Regin (malware),/wiki/Regin_(malware),R
+Related-key attack,/wiki/Related-key_attack,R
+Replay attack,/wiki/Replay_attack,R
+Riverbank Publications,/wiki/Riverbank_Publications,R
+ROCA vulnerability,/wiki/ROCA_vulnerability,R
+Rootkit,/wiki/Rootkit,R
+Rotational cryptanalysis,/wiki/Rotational_cryptanalysis,R
+Rubber-hose cryptanalysis,/wiki/Rubber-hose_cryptanalysis,R
+SciEngines GmbH,/wiki/SciEngines_GmbH,S
+Self-service password reset,/wiki/Self-service_password_reset,S
+Side-channel attack,/wiki/Side-channel_attack,S
+Sinkov statistic,/wiki/Sinkov_statistic,S
+Slide attack,/wiki/Slide_attack,S
+Small subgroup confinement attack,/wiki/Small_subgroup_confinement_attack,S
+Steganalysis,/wiki/Steganalysis,S
+Stream cipher attacks,/wiki/Stream_cipher_attacks,S
+Stuxnet,/wiki/Stuxnet,S
+Supply chain attack,/wiki/Supply_chain_attack,S
+Table of costs of operations in elliptic curves,/wiki/Table_of_costs_of_operations_in_elliptic_curves,T
+Tempest (codename),/wiki/Tempest_(codename),T
+TeslaCrypt,/wiki/TeslaCrypt,T
+Traffic analysis,/wiki/Traffic_analysis,T
+Truncated differential cryptanalysis,/wiki/Truncated_differential_cryptanalysis,T
+Turingery,/wiki/Turingery,T
+Unicity distance,/wiki/Unicity_distance,U
+Wannacry,/wiki/Wannacry,W
+Watermarking attack,/wiki/Watermarking_attack,W
+Weak key,/wiki/Weak_key,W
+Wiener's attack,/wiki/Wiener%27s_attack,W
+XSL attack,/wiki/XSL_attack,X
+Zendian problem,/wiki/Zendian_problem,Z
+Zygalski sheets,/wiki/Zygalski_sheets,Z
