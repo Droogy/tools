@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-URL = 'https://www.slangsite.com/slang/'
+URL = 'https://www.nytimes.com'
 
 words = []
 
@@ -12,7 +12,7 @@ for letter in string.ascii_uppercase:
     page_get = requests.get(url_req)
     soup = BeautifulSoup(page_get.content, 'html.parser')
     # words we want are enclosed within a specific size font tag of 3
-    extract = soup.findAll('font',{'size':'3'})
+    extract = soup.findAll('h3')
     #loop to extract text in between font tags
     for i in extract:
         # strip away html tags
