@@ -2,7 +2,7 @@
 
 Kronos is a bash shell script which returns X amount of people that the target follows, beginning with the oldest.
 This could be a useful tool in OSINT investigations as users will typically follow people and things closest to their interests right away.
----
+Note: The Twitter API will only go back for the last 1000 people your target has followed.
 
 ## Usage
 
