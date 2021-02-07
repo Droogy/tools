@@ -2,21 +2,23 @@
 # AutoEnum by Droogy
 # scan for all ports on a target, parse those results and rescan the discovered ports
 
-echo 'gimme target:';
-read target;
-nmap -p- -T4 $target -oN portscan;
-cat portscan | grep open | cut -d '/' -f 1 | tr '\n' , > ports.txt;
+printf 'gimme target: '
+read target
+nmap -p- -T4 $target -oN portscan
 
-#read file into variable
+# read portscan file output and turn into CSV formatted ports for nmap
+cat portscan | grep open | cut -d '/' -f 1 | tr '\n' , > ports.txt
+
+# read file into variable
 ports=$(<ports.txt)
 
-# advanced script flags
-# --script default,discovery,vuln
-# finalized nmap scan to run against discovered ports
-# fuck it lets throw in UDP as well -sU -top-ports 250
-# remove 'vuln' below here if you want a shorter scan
+# script categories
+# auth, broadcast, brute, default. discovery, dos, exploit \
+# external, fuzzer, intrusive, malware, safe, version, and vuln
+# should prob throw in UDP at some point
+# -sU -top-ports 250
 
-nmap -A -v -p$ports --script=default,discovery,vuln \
---version-all $target -oN initial.log;
-clear;
-cat initial.log | grep tcp;
+nmap -A -v -p$ports --script=discovery,vuln, brute \
+--version-all $target -oN initial.log
+clear
+cat initial.log | grep tcp
